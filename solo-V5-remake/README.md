@@ -1,12 +1,12 @@
-# ✨ Wand UI (Redz Library V5 Remake)
+# ✨ Wand UI (Solo Library V5 Remake)
 
 ## 📌 About
 - **Wand UI** is a rebuilt and optimized version of **Redz Library V5**.
 - It uses the same UI style as the original, with some improvements and refinements.
-- The reason the UI is named **Wand** is that it should be the name of the next generation of **redz Hub** UIs
+- The reason the UI is named **Wand** is that it should be the name of the next generation of **solo Hub** UIs
 
-- 🔹 Made by **real_redz**  
-- 🔹 Designed mainly for use in **Redz Hub** scripts  
+- 🔹 Made by **solo_3333**  
+- 🔹 Designed mainly for use in **Solo Hub** scripts  
 - 🔹 Open-Source, Lightweight, and Optimized  
 
 ---
@@ -14,15 +14,15 @@
 ## 🚀 Getting Starte
 To load **Wand UI**, simply run:
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Library/refs/heads/main/solo-V5-remake/main.luau"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/gsolo3333/Library/refs/heads/main/solo-V5-remake/main.luau"))()
 ```
 
 ### Creating a Window
 ```lua
 local Window = Library:MakeWindow({
   Title = "Nice Hub : Cool Game",
-  SubTitle = "dev by real_redz",
-  ScriptFolder = "redz-library-V5"
+  SubTitle = "dev by solo3333",
+  ScriptFolder = "solo-library-V5"
 })
 ```
 
